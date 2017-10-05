@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="str_tb_title_p1">Pantalla 1</string>
+    <string name="str_tb_title_p2">Pantalla 2</string>
+</resources>
